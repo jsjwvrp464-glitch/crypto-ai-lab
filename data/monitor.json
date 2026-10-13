@@ -1,46 +1,46 @@
 {
   "version": 3,
-  "updatedAt": "2026-10-13T16:30:36+00:00",
+  "updatedAt": "2026-10-13T17:28:06+00:00",
   "startingCash": 1000,
   "cash": 1000.0,
   "positions": {},
   "lastProcessed": {
-    "BTC/USD": 1791903600000,
-    "ETH/USD": 1791903600000,
-    "DOGE/USD": 1791903600000
+    "BTC/USD": 1791907200000,
+    "ETH/USD": 1791907200000,
+    "DOGE/USD": 1791907200000
   },
   "prices": {
     "BTC/USD": {
-      "price": 83338.2,
-      "time": 1791903600000
+      "price": 83300.1,
+      "time": 1791907200000
     },
     "ETH/USD": {
-      "price": 2513.68,
-      "time": 1791903600000
+      "price": 2510.26,
+      "time": 1791907200000
     },
     "DOGE/USD": {
-      "price": 0.0841053,
-      "time": 1791903600000
+      "price": 0.0844611,
+      "time": 1791907200000
     }
   },
   "signals": {
     "BTC/USD": {
       "signal": "HOLD",
-      "upProbability": 0.5063,
-      "ema12": 83255.350224,
-      "ema36": 83119.649405
+      "upProbability": 0.5054,
+      "ema12": 83262.234805,
+      "ema36": 83129.403492
     },
     "ETH/USD": {
       "signal": "SELL",
-      "upProbability": 0.5206,
-      "ema12": 2506.677481,
-      "ema36": 2509.934016
+      "upProbability": 0.5215,
+      "ema12": 2507.228637,
+      "ema36": 2509.951637
     },
     "DOGE/USD": {
       "signal": "SELL",
-      "upProbability": 0.5063,
-      "ema12": 0.084095,
-      "ema36": 0.084629
+      "upProbability": 0.5042,
+      "ema12": 0.084152,
+      "ema36": 0.08462
     }
   },
   "trades": [],
@@ -531,6 +531,10 @@
     },
     {
       "time": "2026-10-13T16:30:36+00:00",
+      "value": 1000.0
+    },
+    {
+      "time": "2026-10-13T17:28:06+00:00",
       "value": 1000.0
     }
   ],
